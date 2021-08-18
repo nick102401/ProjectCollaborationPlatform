@@ -1,0 +1,9 @@
+url: /auth/realms/project/protocol/openid-connect/auth
+method: get
+client_id: collaboration
+redirect_uri: https://portal.dev.rdev.tech/#/my
+state: e2dc02ee-5222-493c-a25b-38a010d45d86
+response_mode: fragment
+response_type: code
+scope: openid
+nonce: fe29dd61-7511-4923-a59d-db380429f59a
